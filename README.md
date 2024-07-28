@@ -1,5 +1,4 @@
 # Volodymyr
-Personal repository for GitHub ReadMe
 
 # Welcome to My GitHub Page
 
@@ -20,6 +19,8 @@ In my repo, you can find projects I've made studying Python, data science, and s
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%2321B352?style=for-the-badge&logo=PostgreSQL)
+
 
 - **Frameworks:**
 
